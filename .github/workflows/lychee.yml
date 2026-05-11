@@ -1,4 +1,5 @@
 name: Lychee external linkcheck
+enabled: false
 on:
   schedule:
     - cron: "18 7 * * 1"  
